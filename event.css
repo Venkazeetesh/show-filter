@@ -1,0 +1,63 @@
+*{
+    color: white;
+}
+.maincontent{
+    border: 2px solid black;
+    height:8606px;
+}
+.hero-caousel{
+    height: 500px;
+    border: 2px solid black;
+}
+.fonts-maincontent{
+    color:black;font-size:30px;padding:0 0 300px 0;font-weight:bolder;opacity:78%
+}
+.footer{
+    background-color:#222539;
+    height: 800px;
+}
+.container{
+    border: red;
+    height: 40px;
+   
+}
+.font-foot{
+    padding:20px; font-size:20px;color:#ffff
+}
+.footer-2{
+    background-color:#222539;
+    height: 50px;
+}
+.footer-3{
+    background-color:#222539;
+    height: 100px;
+}
+.feed-last{
+    height:50px;display:flex;
+
+}
+.inline-feed{
+    padding-left: 20px;
+}
+.last-line{
+    height:100px;
+    display: flex;
+  
+}
+.break-line{
+
+    margin-top:40px;
+    padding: 20px 25px 30px 0;
+}
+.last-logo{
+   padding-bottom:40px;
+    height: 150px;
+    width:200px;
+}
+.list-font{
+    color: #222539;
+  
+}
+.last-linelogo{
+    height: 300px;
+}
