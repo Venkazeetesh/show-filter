@@ -1,20 +1,64 @@
 *{
     color: white;
 }
+.header-container{
+    height:64px;background-color:#333545;
+}
+.below-nav{
+    background-color:#333545;
+    
+}
+.header-row-1{
+    height:64px;
+}
+.header-row-col-1{
+    height:64px;justify-content:center;
+}
+.header-img{
+    background-size:cover;height: 70px;width:120px;filter:brightness(120%);margin-left:100px;padding-top:25px
+}
+.header-2{
+    height:64px;justify-content:center;padding-top:25px
+}
+.input-group{
+    width: 540px;margin-left:200px;justify-content:start
+}
+.header-2col-3{
+    height:64px
+}
+.header-2-container{
+    height:64px;
+    color:white;
+    padding-left: 100px;
+}
+.header-2-container-row{
+    height:64px;
+  
+}
+.header-2-container-row-col{
+    height:64px;padding-top:25px;
+   
+}
+.header-2-container-row-col-1{
+    height:64px;padding-top:25px
+}
 .maincontent{
-    border: 2px solid black;
-    height:8606px;
+    height:2300px;
+    margin-top:83px;
+   
+  
 }
 .hero-caousel{
-    height: 500px;
-    border: 2px solid black;
+    height: 200px;
+    width: 100%;
+ 
 }
 .fonts-maincontent{
     color:black;font-size:30px;padding:0 0 300px 0;font-weight:bolder;opacity:78%
 }
 .footer{
     background-color:#222539;
-    height: 800px;
+    height: 402px;
 }
 .container{
     border: red;
@@ -38,6 +82,7 @@
 }
 .inline-feed{
     padding-left: 20px;
+    color: wheat;
 }
 .last-line{
     height:100px;
@@ -60,4 +105,41 @@
 }
 .last-linelogo{
     height: 300px;
+}
+
+
+.content .feed-list{
+    height:20px;
+    font-weight: bolder;
+    font-size: 34px;
+}
+
+a{
+    text-decoration: none;
+}
+img{
+    border-radius:15px 15px 15px 15px;
+}
+.card-text{
+    opacity: 70%;
+    line-height:20px;
+}
+.card-movie{
+    padding: 0%;
+}
+.card-body{
+    padding: 0;
+}
+.movie-cards{
+    line-height: 20px;
+    padding: 0%;
+}
+.call{
+    line-height: 10px;
+}
+.button-top{
+
+    border: 1px solid  black;
+    border-radius: 8vh;
+    color: red;
 }
